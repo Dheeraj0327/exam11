@@ -1,0 +1,9 @@
+body,
+.sticky-footer-wrapper {
+  min-height: 80vh;
+  background-color:lightblue;
+  padding: 5em;
+  margin: 3em;
+opacity:1
+}
+
