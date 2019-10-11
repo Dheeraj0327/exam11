@@ -1,9 +1,10 @@
 body,
 .sticky-footer-wrapper {
   min-height: 80vh;
-  background-color:lightblue;
+  background-color:lightgrey;
   padding: 5em;
   margin: 3em;
 opacity:1
+text-align:center;
 }
 
